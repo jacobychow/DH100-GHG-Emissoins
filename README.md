@@ -3,7 +3,7 @@
 
  
 ### About Me:
-  I'm a rising senior studying environmental sciences with a minor in data science, and I am extremely passionate about sustainability. I have no clue what I want to do post graduation, but I know I want to contribute to the trainsition towards renewables.
+  I'm a rising senior studying environmental sciences with a minor in data science, and I am extremely passionate about sustainability. I have no clue what I want to do post graduation, but I know I want to contribute to the transition towards renewables.
 
 
 ### License
